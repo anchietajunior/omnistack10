@@ -1,4 +1,4 @@
-# Semana Omnistack 10
+# Semana Omnistack 10 by Rocketseat
 
 This is a weekly Javascript training for create applications with Node, ReactJS and React Native
 
